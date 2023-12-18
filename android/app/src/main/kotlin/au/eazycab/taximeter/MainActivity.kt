@@ -1,0 +1,6 @@
+package au.eazycab.taximeter
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
